@@ -56,3 +56,7 @@ Pour utiliser votre propre jeu de données :
 
 1. Modifiez le script `save_model.py` pour charger vos données réelles
 2. Exécutez à nouveau `python save_model.py` pour mettre à jour le modèle
+
+Auteur :
+BENABOUD ROQIA etudiante master AI &SD
+AMANI OUAHDANI  etudiante master architecture distribuee
